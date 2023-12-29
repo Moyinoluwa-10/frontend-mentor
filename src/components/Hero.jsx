@@ -15,7 +15,7 @@ const Hero = () => {
             rel="noreferrer"
             className=" bg-[#60dbfb] hover:bg-[#60dbfb]/60 py-2 px-7 inline-block rounded-md uppercase font-bold"
           >
-            Visit site
+            Visit frontend mentor
           </a>
         </div>
         <div className="hidden md:block">
