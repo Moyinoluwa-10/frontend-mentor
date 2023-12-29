@@ -9,11 +9,6 @@
   -moz-osx-font-smoothing: grayscale;
 }
 
-@font-face {
-  font-family: "U8";
-  src: url(./assets/fonts/GeneralSans-Regular.otf) format("opentype");
-}
-
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
