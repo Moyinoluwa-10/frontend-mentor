@@ -25,6 +25,7 @@ import image24 from "../assets/images/image-24.png";
 import image25 from "../assets/images/image-25.png";
 import image26 from "../assets/images/image-26.png";
 import image27 from "../assets/images/image-27.png";
+import image28 from "../assets/images/image-28.png";
 
 export const data = [
   {
@@ -291,5 +292,15 @@ export const data = [
     challengeLink:
       "https://www.frontendmentor.io/challenges/recipe-page-KiTsR8QQKm",
     img: image27,
+  },
+  {
+    id: 28,
+    title: "Blog preview card",
+    liveLink: "https://blog-prevcard.netlify.app/",
+    repoLink:
+      "https://gitlab.com/Moyinoluwa-10/frontend-mentor-blog-preview-card",
+    challengeLink:
+      "https://www.frontendmentor.io/challenges/blog-preview-card-ckPaj01IcS",
+    img: image28,
   },
 ];
