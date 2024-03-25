@@ -24,6 +24,7 @@ import image23 from "../assets/images/image-23.png";
 import image24 from "../assets/images/image-24.png";
 import image25 from "../assets/images/image-25.png";
 import image26 from "../assets/images/image-26.png";
+import image27 from "../assets/images/image-27.png";
 
 export const data = [
   {
@@ -281,5 +282,14 @@ export const data = [
     challengeLink:
       "https://www.frontendmentor.io/challenges/social-links-profile-UG32l9m6dQ",
     img: image26,
+  },
+  {
+    id: 27,
+    title: "Recipe page",
+    liveLink: "https://recipe-page-sol.netlify.app/",
+    repoLink: "https://gitlab.com/Moyinoluwa-10/frontend-mentor-recipe-page",
+    challengeLink:
+      "https://www.frontendmentor.io/challenges/recipe-page-KiTsR8QQKm",
+    img: image27,
   },
 ];
