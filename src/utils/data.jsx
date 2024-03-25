@@ -23,6 +23,7 @@ import image22 from "../assets/images/image-22.png";
 import image23 from "../assets/images/image-23.png";
 import image24 from "../assets/images/image-24.png";
 import image25 from "../assets/images/image-25.png";
+import image26 from "../assets/images/image-26.png";
 
 export const data = [
   {
@@ -270,5 +271,15 @@ export const data = [
     challengeLink:
       "https://www.frontendmentor.io/challenges/ping-single-column-coming-soon-page-5cadd051fec04111f7b848da",
     img: image25,
+  },
+  {
+    id: 26,
+    title: "Social links profile",
+    liveLink: "https://social-links-prof.netlify.app/",
+    repoLink:
+      "https://gitlab.com/Moyinoluwa-10/frontend-mentor-social-links-profile",
+    challengeLink:
+      "https://www.frontendmentor.io/challenges/social-links-profile-UG32l9m6dQ",
+    img: image26,
   },
 ];
