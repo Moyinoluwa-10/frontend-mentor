@@ -27,6 +27,7 @@ import image26 from "../assets/images/image-26.png";
 import image27 from "../assets/images/image-27.png";
 import image28 from "../assets/images/image-28.png";
 import image29 from "../assets/images/image-29.png";
+import image30 from "../assets/images/image-30.png";
 
 export const data = [
   {
@@ -312,5 +313,15 @@ export const data = [
     challengeLink:
       "https://www.frontendmentor.io/challenges/faq-accordion-wyfFdeBwBz",
     img: image29,
+  },
+  {
+    id: 29,
+    title: "Age calculator app",
+    liveLink: "https://age-calcapp.netlify.app/",
+    repoLink:
+      "https://gitlab.com/Moyinoluwa-10/frontend-mentor-age-calculator-app",
+    challengeLink:
+      "https://www.frontendmentor.io/challenges/age-calculator-app-dF9DFFpj-Q",
+    img: image30,
   },
 ];
